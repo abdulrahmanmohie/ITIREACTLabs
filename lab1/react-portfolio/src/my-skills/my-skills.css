@@ -1,0 +1,35 @@
+#mySkills h2{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-shadow:3px 3px  3px rgb(44, 43, 43);
+    color: white;
+}
+#mySkills h5{
+    border-bottom: 1px solid #fff;
+    padding-bottom: 15px;
+    max-width: 60%;
+    font-size: 16px;
+}
+#mySkills .parntleft{
+    max-width: 70%;
+    margin: 10px auto 10px 0px;
+    font-size: 13px;
+}
+#mySkills span{
+    margin: 15px;
+}
+#mySkills .container{
+    background-color: rgb(77, 77, 77);
+    max-width: 100%;
+    color: white;
+}
+#mySkills .progress{
+    color: white;
+    background-color: white;
+    border-radius: 0;
+    height: 1.4rem;
+
+}
+#mySkills .progress-bar{
+    background-color: grey;
+}
